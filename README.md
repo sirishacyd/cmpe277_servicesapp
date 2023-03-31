@@ -1,4 +1,5 @@
 # cmpe277_servicesapp
+# Course: Smartphone Application Development
 
 ### Learning Objective:
 
